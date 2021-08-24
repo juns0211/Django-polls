@@ -9,11 +9,11 @@ Detailed documentation is in the docs directory.
 
 how to install
 --------------
-python -m pip install --user django-polls/dist/django-polls-0.1.tar.gz
+pip install git+https://github.com/juns0211/django-polls.git
 
 how to uninstall
 ----------------
-python -m pip uninstall django-polls
+pip uninstall django-polls
 
 
 Quick Start
