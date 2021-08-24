@@ -7,13 +7,17 @@ visitors can choose between a fixed number of answers.
 
 Detailed documentation is in the docs directory.
 
+placement path
+--------------
+project/
+
 how to install
 --------------
-pip install git+https://github.com/juns0211/django-polls.git
+python -m pip install --user django-polls/dist/django-polls-0.1.tar.gz
 
 how to uninstall
 ----------------
-pip uninstall django-polls
+python -m pip uninstall django-polls
 
 
 Quick Start
